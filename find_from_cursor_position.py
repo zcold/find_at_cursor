@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 
 
-class FindAtCursor(sublime_plugin.TextCommand):
+class FindFromCursorPosition(sublime_plugin.TextCommand):
 
     @property
     def highlighted_regions(self):
