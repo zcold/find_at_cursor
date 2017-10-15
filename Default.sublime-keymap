@@ -1,0 +1,4 @@
+[
+    { "keys": ["f3"], "command": "find_from_cursor_position", "args": {"find_next": true}},
+    { "keys": ["ctrl+f3"], "command": "find_from_cursor_position", "args": {"find_next": false}},
+]

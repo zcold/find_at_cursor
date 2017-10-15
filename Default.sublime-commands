@@ -1,0 +1,4 @@
+[
+    { "caption": "Find from cursor position: Next", "command": "find_from_cursor_position", "args": {"find_next": true}},
+    { "caption": "Find from cursor position: Previous", "command": "find_from_cursor_position", "args": {"find_next": false}},
+]
